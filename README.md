@@ -15,5 +15,3 @@ cd my-app
 yarn
 yarn start
 ```
-# flow-mp-template
-# flow-mp-template
