@@ -1,6 +1,7 @@
 # Table of contents
 
-* [NFT Data Model](README.md)
+* [NFT Data Model Best Practices](README.md)
+* [Accessing Flow Blockchain](accessing-flow-blockchain.md)
 
 ## Repositories
 

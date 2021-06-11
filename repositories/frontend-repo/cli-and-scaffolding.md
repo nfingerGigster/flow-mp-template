@@ -6,7 +6,7 @@
 yarn generate
 ```
 
-Allows you to auto-generate boilerplate code for common parts of your application, specifically `component`s, and `redux-toolkit slice`s. You can also run `yarn generate <part>` to skip the first selection \(e.g., `yarn generate component`\).
+Allows you to auto-generate boilerplate code for common parts of your application. You can also run `yarn generate <part>` to skip the first selection \(e.g., `yarn generate component`\).
 
 ```text
 yarn test:generators

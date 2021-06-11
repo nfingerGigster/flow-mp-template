@@ -8,10 +8,7 @@ Here's a curated list of packages that you should be at least familiar with befo
 
 * [React](https://facebook.github.io/react/)
 * [React Router](https://github.com/ReactTraining/react-router)
-* [Redux](http://redux.js.org/)
-* [Redux Toolkit](https://redux-toolkit.js.org/)
-* [Reselect](https://github.com/reactjs/reselect)
-* [Redux-Saga](https://redux-saga.github.io/redux-saga/)
+* [RecoilJS](https://recoiljs.org/)
 * [Styled Components](https://github.com/styled-components/styled-components)
 * [Typescript](https://github.com/microsoft/TypeScript)
 * [React-i18next](https://github.com/i18next/react-i18next)
