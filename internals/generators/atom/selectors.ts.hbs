@@ -1,0 +1,9 @@
+import { selector } from 'recoil'
+
+import { RootState } from 'types';
+import { {{ atomName }}State } from '.'
+
+export const select{{ properCase atomName }} = selector({
+  key: '{{ atomName }}State',
+  get: ({get}) => get({{ atomName }}State)
+});

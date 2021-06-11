@@ -1,0 +1,19 @@
+import { atom } from 'recoil'
+
+import { RootState } from 'types';
+
+export const {{ atomName }}State = atom({
+  key: '{{ atomName }}State',
+  default: {},
+});
+
+/**
+ * Example Usage:
+ *
+ * export function MyComponentNeedingThisAtom() {
+ *  const {{ atomName }} = useRecoilValue({{ properCase atomName }}State)
+ *  // OR
+ *  const [{{ atomName }}, set{{ properCase atomName }}] = useRecoilState({{ properCase atomName }}State);
+ *
+ *  // ...More Code
+ */
