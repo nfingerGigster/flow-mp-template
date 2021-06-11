@@ -1,4 +1,4 @@
-# NFT Data Model Best Practices
+# NFT Data Model
 
 **High Level**
 
