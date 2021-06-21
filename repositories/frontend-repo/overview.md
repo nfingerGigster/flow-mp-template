@@ -6,12 +6,12 @@ Here's a curated list of packages that you should be at least familiar with befo
 
 ### Core
 
-* [React](https://facebook.github.io/react/)
 * [React Router](https://github.com/ReactTraining/react-router)
-* [RecoilJS](https://recoiljs.org/)
-* [Styled Components](https://github.com/styled-components/styled-components)
+* [NextJS](https://nextjs.org/)
+* [Xstate](https://github.com/davidkpiano/xstate)
+* [ThemeUI](https://theme-ui.com/)
+* [@dapperlabs/react-analytics](https://www.npmjs.com/package/@dapperlabs/react-analytics)
 * [Typescript](https://github.com/microsoft/TypeScript)
-* [React-i18next](https://github.com/i18next/react-i18next)
 
 ### Unit Testing
 
